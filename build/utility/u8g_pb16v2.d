@@ -1,0 +1,57 @@
+u8g_pb16v2.o: \
+ D:/Project/Alarm/Software/play_mp3_flash/components/utility/u8g_pb16v2.c \
+ D:/Project/Alarm/Software/play_mp3_flash/components/utility/u8g.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/stdint.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/_default_types.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/features.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/_intsup.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/string.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/_ansi.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/newlib.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/config.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/ieeefp.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/reent.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/_ansi.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/_types.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/_types.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/lock.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/cdefs.h \
+ C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/string.h
+
+D:/Project/Alarm/Software/play_mp3_flash/components/utility/u8g.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/stdint.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/_default_types.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/features.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/_intsup.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/string.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/_ansi.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/newlib.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/config.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/ieeefp.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/reent.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/_ansi.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/_types.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/machine/_types.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/lock.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/cdefs.h:
+
+C:/msys32/home/esp/esp-adf/esp-idf/components/newlib/include/sys/string.h:
+/d/Project/Alarm/Software/play_mp3_flash/components/utility/./u8g_pb16v2.c:
